@@ -31,8 +31,10 @@
     <h2 align="center"> 📊 Github Stats </h2>
       <br/>
         <p align="center">
-          <!-- [![image](https://user-images.githubusercontent.com/85161810/190900868-efdf0537-68ea-4a0a-8761-8e23938f19d8.png)](https://github-readme-stats.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical)
-          [https://github-readme-stats.vercel.app/api?username=kilian-sosa&show_icons=true&count_private=true&theme=radical](https://github-readme-stats.vercel.app/api?username=kilian-sosa&show_icons=true&count_private=true&theme=radical) -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
+        </p>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=kilian-sosa&show_icons=true&count_private=true&theme=radical">
         </p>
   </div>    
 </details>
