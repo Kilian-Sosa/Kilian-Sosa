@@ -3,9 +3,9 @@
   <h3 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Web+Apps+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
   </h3>
-  <h5 align="center" dir="auto">
+  <h4 align="center" dir="auto">
     🌲🧠 Environmental and Self-Sufficient Drone Project <a href="http://hermes-ia.com/" color="333B4B" target="_blank">Hermes IA</a> 
-  </h5>
+  </h4>
 </div>
 
 <hr/>
