@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Kilian</h1>
   <h3 align="center">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Multi-Platform+App+Developer;Web+Apps+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Web+Apps+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
   </h3>
   <h5 align="center" dir="auto">
     🌲🧠 Environmental and Self-Sufficient Drone Project <a href="http://hermes-ia.com/" color="333B4B" target="_blank">Hermes IA</a> 
