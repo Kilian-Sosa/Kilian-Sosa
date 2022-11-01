@@ -64,7 +64,7 @@
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
         </p>
         <p align="center">
-          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&theme=radical&count_private=true&show_icons=true">
+          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&theme=radical&show_icons=true">
         </p>
   </div>    
 </details>
