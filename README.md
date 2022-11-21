@@ -58,13 +58,13 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github Stats </h2>
-    <h4 align="center"> Updated: 01/11/2022 </h4>
+    <h4 align="center"> Updated: 21/11/2022 </h4>
       <br/>
         <p align="center">
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
         </p>
         <p align="center">
-          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&theme=radical&show_icons=true">
+          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&count_private=true&theme=radical&show_icons=true">
         </p>
   </div>    
 </details>
