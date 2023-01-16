@@ -27,9 +27,12 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://www.w3schools.com/php/"> 
     <img src="https://user-images.githubusercontent.com/85161810/190901853-abd1e11c-73c4-4f94-9d01-26b79c72e736.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
   </a>
+  <a href="https://laravel.com"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="php" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> 
   </a> 
@@ -64,7 +67,7 @@
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
         </p>
         <p align="center">
-          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&count_private=true&theme=radical&show_icons=true">
+          <img src="https://github-readme-stats-kilian-sosa.vercel.app/api?username=kilian-sosa&hide=stars%2Cprs&count_private=true&include_all_commits=true&theme=radical&show_icons=true">
         </p>
   </div>    
 </details>
