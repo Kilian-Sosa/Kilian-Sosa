@@ -60,8 +60,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> 📊 Github Stats </h2>
-    <h4 align="center"> Updated: 21/11/2022 </h4>
+    <h2 align="center"> 📊 GitHub Stats </h2>
+    <h4 align="center"> Updated: 22/03/2023 </h4>
       <br/>
         <p align="center">
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
