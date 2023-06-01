@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Kilian</h1>
   <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Web+Apps+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
   </h3>
   <h4 align="center" dir="auto">
     🌲🧠 Environmental and Self-Sufficient Drone Project <a href="http://hermes-ia.com/" color="333B4B" target="_blank">Hermes IA</a> 
@@ -39,6 +39,9 @@
   <a href="https://developer.android.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> 
   </a> 
+  <a href="https://wordpress.com"> 
+    <img src="https://img.freepik.com/free-icon/wordpress_318-183439.jpg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> 
+  </a> 
 </p>
 
 <details>
@@ -61,7 +64,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 GitHub Stats </h2>
-    <h4 align="center"> Updated: 22/03/2023 </h4>
+    <h4 align="center"> Updated: 01/06/2023 </h4>
       <br/>
         <p align="center">
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
