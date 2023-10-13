@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Kilian</h1>
   <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Videogame,+XR+and+AI+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
   </h3>
   <h4 align="center" dir="auto">
     🌲🧠 Environmental and Self-Sufficient Drone Project <a href="http://hermes-ia.com/" color="333B4B" target="_blank">Hermes IA</a> 
@@ -15,9 +15,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://www.python.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">   </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%">   
+  </a>
   <a href="https://www.mysql.com/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"> 
   </a> 
   <a href="https://www.w3.org/html/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
@@ -28,12 +29,27 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
   </a>
+  <a href="https://nodejs.org/en"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="50" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://react.dev"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://astro.build"> 
+    <img src="https://astro.js.org/astro.png" alt="astro" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://svelte.dev"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://www.w3schools.com/php/"> 
     <img src="https://user-images.githubusercontent.com/85161810/190901853-abd1e11c-73c4-4f94-9d01-26b79c72e736.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://laravel.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="php" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
+  </a>
+  <a href="https://tailwindcss.com"> 
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://developer.android.com"> 
@@ -64,7 +80,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 GitHub Stats </h2>
-    <h4 align="center"> Updated: 01/06/2023 </h4>
+    <h4 align="center"> Updated: 14/10/2023 </h4>
       <br/>
         <p align="center">
           <img src="https://github-readme-stats-kilian-sosa.vercel.app/api/top-langs/?username=kilian-sosa&layout=compact&theme=radical">
